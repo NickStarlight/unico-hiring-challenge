@@ -1,4 +1,4 @@
-# Unico Hiring Challenge - Server module
+# Unico Hiring Challenge
 This repository contains the two modules for the proposed Unico hiring challenge.
 Navigate to each submodule for more information.
 
