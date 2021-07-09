@@ -1,0 +1,6 @@
+[submodule "unico-hiring-challenge-etl"]
+	path = unico-hiring-challenge-etl
+	url = https://github.com/NickStarlight/unico-hiring-challenge-etl
+[submodule "unico-hiring-challenge-server"]
+	path = unico-hiring-challenge-server
+	url = https://github.com/NickStarlight/unico-hiring-challenge-server
